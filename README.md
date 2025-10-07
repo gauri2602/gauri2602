@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gauri2602
 - 👀 I’m interested in development and learning new skills
 - 🌱 I’m currently learning javascript and web development skills
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at gauri.kapse2602@gmail.com
 
 <!---
